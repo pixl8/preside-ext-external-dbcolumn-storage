@@ -35,7 +35,7 @@ binder.map( "myStorageProvider" ).asSingleton().to( "app.extensions.preside-ext-
 
 ## Known limitations
 
-This extension is in a rough alpha state. it currently does not:
+This extension is in an ALPHA state. it currently does not:
 
 * Delete objects from the storage provider once their parent record is deleted
 * Delete objects from the storage provider when the value of the column changes
@@ -43,7 +43,7 @@ This extension is in a rough alpha state. it currently does not:
 
 ## License
 
-This project is licensed under the GPLv2 License - see the [LICENSE.txt](https://github.com/pixl8/Preside-CMS/blob/stable/LICENSE.txt) file for details.
+This project is licensed under the GPLv2 License - see the [LICENSE.txt](https://github.com/pixl8/preside-ext-external-dbcolumn-storage/blob/stable/LICENSE.txt) file for details.
 
 ## Authors
 
@@ -51,4 +51,4 @@ The project is maintained by [The Pixl8 Group](https://www.pixl8.co.uk).
 
 ## Code of conduct
 
-We are a small, friendly and professional community. For the eradication of doubt, we publish a simple [code of conduct](https://github.com/pixl8/Preside-CMS/blob/stable/CODE_OF_CONDUCT.md) and expect all contributors, users and passers-by to observe it.
+We are a small, friendly and professional community. For the eradication of doubt, we publish a simple [code of conduct](https://github.com/pixl8/preside-ext-external-dbcolumn-storage/blob/stable/CODE_OF_CONDUCT.md) and expect all contributors, users and passers-by to observe it.
