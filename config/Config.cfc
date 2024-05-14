@@ -4,6 +4,6 @@ component {
 		var conf     = arguments.config;
 		var settings = conf.settings ?: {};
 
-		// todo: your settings here
+		ArrayAppend( conf.interceptors, { class="app.extensions.preside-ext-external-dbcolumn-storage.interceptors.ExternalDbColumnStorageInterceptors" } );
 	}
 }
