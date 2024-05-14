@@ -1,0 +1,7 @@
+{
+	  "id"        : "preside-ext-external-dbcolumn-storage"
+	, "title"     : "External Storage for DB Columns"
+	, "author"    : "Pixl8 Group"
+	, "version"   : "$VERSION_NUMBER"
+	, "dependsOn" : []
+}
